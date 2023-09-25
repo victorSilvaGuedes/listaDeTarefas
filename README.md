@@ -13,3 +13,7 @@
 ## 👨‍💻 Contato
 
 sguedes.victor@gmail.com
+
+## 💻 LinkedIn
+
+https://www.linkedin.com/in/victorsilvaguedes/
